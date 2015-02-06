@@ -640,7 +640,9 @@ hr.bold {
 /* ===========================
 --- publications
 ============================ */
-
+.publication-item{
+	margin-bottom: 30px;
+}
 
 /* ===========================
 --- other work
@@ -648,7 +650,6 @@ hr.bold {
 
 .img-link{
 	position: relative; 
-	opacity: 0.5;
 	margin-bottom: 60px;
 }
 
@@ -659,7 +660,7 @@ hr.bold {
 	position: absolute; 
 	top: 60px; 
 	left: 0; 
-	color: #000;
+	color: #fff;
 	font-size: 40px;
 	font-weight: bold;
 	text-transform: uppercase; 
