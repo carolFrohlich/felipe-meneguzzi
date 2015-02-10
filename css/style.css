@@ -31,8 +31,9 @@ h1 {
 h2 {
 	font-size: 36px;
 }
-h3 {
-	font-size: 32px;
+h3{
+	font-size: 20px;
+	margin-top: 50px;
 }
 h4 {
 	font-size: 28px;
@@ -580,27 +581,11 @@ hr.bold {
 list-style: none;
 }
 
-h3{
-	font-size: 20px;
-	margin-top: 50px;
+
+.subtitle{
+	color: #111;
+	font-size: 17px;
 }
-
-
-/* ===========================
---- People
-============================ */
-
-
-
-
-/* ===========================
---- Contact
-============================ */
-
-
-/* ===========================
---- Resources
-============================ */
 
 
 
